@@ -1,5 +1,5 @@
 ## Hi there! 
-[Radio](https://github.com/user-attachments/assets/f2373a5a-142e-4e53-8e6c-3f4756af79dd)
+(https://github.com/user-attachments/assets/f2373a5a-142e-4e53-8e6c-3f4756af79dd)
 
 <!--
 **Jskight/Jskight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
