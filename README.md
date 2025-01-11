@@ -1,6 +1,3 @@
-## Hi there! 
-(https://github.com/user-attachments/assets/f2373a5a-142e-4e53-8e6c-3f4756af79dd)
-
 <!--
 **Jskight/Jskight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,9 @@ Here are some ideas to get you started:![Radio](https://github.com/user-attachme
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! 
+![Radio](https://github.com/user-attachments/assets/c0dd8735-552e-48c0-b18e-aef92ad9733b)
+
+
+
