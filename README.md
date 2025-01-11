@@ -15,7 +15,6 @@ Here are some ideas to get you started:![Radio](https://github.com/user-attachme
 -->
 
 ## Hi. I'm Lee.
-![Radio](https://github.com/user-attachments/assets/c0dd8735-552e-48c0-b18e-aef92ad9733b)
 ![octocat-1736637578667](https://github.com/user-attachments/assets/7e8e1d13-e3be-4af0-8e38-3488d794105a)
 
 
