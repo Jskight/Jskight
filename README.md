@@ -1,7 +1,7 @@
 <!--
 **Jskight/Jskight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:![Radio](https://github.com/user-attachments/assets/f2373a5a-142e-4e53-8e6c-3f4756af79dd)
+Here are some ideas to get you started:!
 
 
 - 🔭 I’m currently working on ...
@@ -15,6 +15,9 @@ Here are some ideas to get you started:![Radio](https://github.com/user-attachme
 -->
 
 ## Hi. I'm Lee.
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=46679" style='border:none;'></iframe>
+
 ![octocat-1736637578667](https://github.com/user-attachments/assets/7e8e1d13-e3be-4af0-8e38-3488d794105a)
 
 
