@@ -17,7 +17,9 @@ Here are some ideas to get you started:!
 ## Hi. I'm Lee.
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/jskight.png" alt="tryhackme badge" />
+<div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=46679" style='border:none;'></iframe>
+</div>
 
 ![octocat-1736637578667](https://github.com/user-attachments/assets/7e8e1d13-e3be-4af0-8e38-3488d794105a)
 
