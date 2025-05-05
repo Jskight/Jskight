@@ -16,7 +16,7 @@ Here are some ideas to get you started:!
 
 ## Hi. I'm Lee.
 
-![image](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=46679)
+![tryhackme stats](https://raw.githubusercontent.com/jskight/jskight/master/assets/thm_propic.png)
 
 ![octocat-1736637578667](https://github.com/user-attachments/assets/7e8e1d13-e3be-4af0-8e38-3488d794105a)
 
