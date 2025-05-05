@@ -17,6 +17,3 @@ Here are some ideas to get you started:!
 ## Hi. I'm Lee.
 
 ![octocat-1736637578667](https://github.com/user-attachments/assets/7e8e1d13-e3be-4af0-8e38-3488d794105a)
-
-![tryhackme stats](https://raw.githubusercontent.com/jskight/jskight/master/assets/tryhackme-badge.png)
-
