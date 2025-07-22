@@ -14,7 +14,7 @@ This space is where I:
 ## 🔍 Interests
 
 I’m currently exploring:
-- Coding fundamentals
+- Radio Technology
 - Cybersecurity Fundamentals
 - Open-source tools
 
