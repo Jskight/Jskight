@@ -24,6 +24,8 @@ I’m currently exploring:
 
 I'm not super active socially, but feel free to open an issue or discussion on one of my repos if you'd like to connect or collaborate.
 
+<a href="https://www.dudeism.com" target="_blank"><img alt="I am an Ordained Dudeist Priest" src="https://www.dudeism.com/Images/Im-an-ordained-dudeist-priest.gif" border="0" title="I am an Ordained Dudeist Priest" /></a>
+
 ---
 
 > “We’re all just walking each other home.” - Ram Dass
